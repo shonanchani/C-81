@@ -1,2 +1,1 @@
-# C-81
-Story Telling App
+# ST-81-Boilerplate
